@@ -191,7 +191,7 @@ body {
     gap: 100px;
     display: grid;
     place-content: center;
-
+    position: relative;
 
 }
 
@@ -666,5 +666,6 @@ footer {
         left: 0;
 
     }
+
 
 }
