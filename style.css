@@ -572,7 +572,6 @@ footer {
     .first-page {
         min-height: 70vh;
         place-items: center;
-        padding: 0;
 
     }
 
@@ -668,5 +667,6 @@ footer {
 
 
 }
+
 
 
